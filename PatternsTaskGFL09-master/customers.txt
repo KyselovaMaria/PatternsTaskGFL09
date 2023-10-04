@@ -1,0 +1,17 @@
+Name: John Doe
+Rentals: [patterns.example.customer.Rental@7823a2f9, patterns.example.customer.Rental@4cc0edeb, patterns.example.customer.Rental@457e2f02]
+Statement: Rental Record for John Doe
+	R	2.0
+	Hobbits	5.0
+	Harry Potter-2	6.5
+Amount owed is 13.5
+You earned 4 frequent renter points
+
+Name: Alice
+Rentals: [patterns.example.customer.Rental@5c7fa833, patterns.example.customer.Rental@39aeed2f]
+Statement: Rental Record for Alice
+	Matrix-4	9.0
+	Frozen	1.5
+Amount owed is 10.5
+You earned 3 frequent renter points
+
